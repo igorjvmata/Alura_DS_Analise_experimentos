@@ -2,7 +2,7 @@
 ## Formação: Data Science
 ### 9 - Análise de experimentos: Testes, mapas de cores e análise dos dados.
 
-#### 01 - 
+#### 01 - Introdução à experimentação
   - Discernir quais fontes são válidas para a coleta de dados;
   - As vantagens de se realizar um experimento;
   - Definir os objetivos do experimento, assim como identificar as variáveis manipuláveis e a resposta do experimento;
